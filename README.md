@@ -34,7 +34,7 @@ I build practical tools that take manual work off people's plates: automations, 
 | [Mini GPT from scratch](https://github.com/guptamannu697-png/Build-a-Mini-GPT-Model-From-Scratch-Using-PyTorch) | A small GPT-style language model built step by step in PyTorch |
 | [Loan Approval Capstone](https://github.com/guptamannu697-png/Loan-Approval-Capstone) | ML model plus a Power BI report for loan approval prediction |
 | [Zomato Power BI Dashboard](https://github.com/guptamannu697-png/Zomato-Power-BI--Dashboard) | Restaurant and order analytics in Power BI |
-| [Skill Edge Portal](https://github.com/guptamannu697-png/skilledge-portal) | Student portal for live classes and recordings, built on Firebase |
+| [Portfolio Website](https://github.com/guptamannu697-png/manu-portfolio) | Multi-page portfolio site showcasing my dashboards, ML and automation work |
 
 ## 📫 Let's connect
 
